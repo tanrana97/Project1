@@ -1,5 +1,7 @@
 # Project1
 
+35.154.125.50:8080/gameoflife
+
 **Created Jenkins Pipeline and deployed application on Tomcat server.**
 
 Technology - AWS (EC2,S3), GitHub, Maven, Jenkins, Tomcat
